@@ -1,0 +1,27 @@
+{
+    "Name": "Mousent",
+    "BIDSVersion": "1.2.2",
+    "License": "",
+    "Authors": [
+        "Ezra Winter-Nelson",
+        "Eyal Bergmann",
+        "Micaela Chan",
+        "Gabriella Vill",
+        "Liang Han",
+        "Ziwei Zhang",
+        "Alexandra Kavushansky",
+        "Irit Dolgopyat",
+        "Jad Asleh",
+        "Jennifer Whitesell",
+        "Itamar Kahn",
+        "Gagan Wig"
+    ],
+    "Acknowledgements": "",
+    "HowToAsknowledge": "",
+    "Funding": [
+        "This work was supported by an independent pilot award from the NIH Animal models for social dimensions of health and aging research network (1R24AG065172-01 [subaward to GSW]), Understanding Human Cognition Scholar Award from the James S. McDonnell Foundation (GSW), National Institutes of Health (AG063930 [GSW] & AG092219 [IK & GSW]), and by the Carol and Gene Ludwig Center at Columbia University (IK)."
+    ],
+    "EthicApprovals": "",
+    "ReferenceAndLinks": "",
+    "DatasetDOI": ""
+}
