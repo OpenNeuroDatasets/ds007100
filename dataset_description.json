@@ -1,7 +1,7 @@
 {
-    "Name": "Mousent",
+    "Name": "Mousenet",
     "BIDSVersion": "1.2.2",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Ezra Winter-Nelson",
         "Eyal Bergmann",
