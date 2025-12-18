@@ -25,7 +25,7 @@
         "NIA AG092219",
         "Carol and Gene Ludwig Center at Columbia University"
     ],
-    "EthicApprovals": "All procedures were conducted in accordance with the ethical guidelines of the National Institutes of Health and were approved by the institutional animal care and use committee (IACUC) at Technion – Israel Institute of Technology or Columbia University",
+    "EthicApprovals": ["All procedures were conducted in accordance with the ethical guidelines of the National Institutes of Health and were approved by the institutional animal care and use committee (IACUC) at Technion – Israel Institute of Technology or Columbia University"],
     "ReferenceAndLinks": "",
     "DatasetDOI": ""
 }
