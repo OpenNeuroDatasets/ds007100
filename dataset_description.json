@@ -1,5 +1,5 @@
 {
-    "Name": "Mousenet",
+    "Name": "Resting-state fMRI in Awake Mice",
     "BIDSVersion": "1.2.2",
     "License": "CC0",
     "Authors": [
@@ -27,5 +27,5 @@
     ],
     "EthicsApprovals": ["All procedures were conducted in accordance with the ethical guidelines of the National Institutes of Health and were approved by the institutional animal care and use committee (IACUC) at Technion – Israel Institute of Technology or Columbia University"],
     "ReferenceAndLinks": "",
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds007100.v1.0.0"
 }
