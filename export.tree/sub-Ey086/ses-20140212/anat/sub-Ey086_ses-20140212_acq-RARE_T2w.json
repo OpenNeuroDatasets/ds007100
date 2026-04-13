@@ -1,0 +1,33 @@
+{
+    "ManufacturersModelName": "BioSPec 94/20 AV3",
+    "StationName": "BioSPec 94/20 AV3",
+    "MagneticFieldStrength": 9.4,
+    "ParallelReductionFactorInPlane": 4,
+    "TotalReadoutTime": 0.00035839999999999993,
+    "EchoTime": 0.017,
+    "SliceTiming": [
+        0.0,
+        0.15,
+        0.3,
+        0.44999999999999996,
+        0.6,
+        0.75,
+        0.8999999999999999,
+        1.05,
+        1.2,
+        1.3499999999999999,
+        0.075,
+        0.22499999999999998,
+        0.375,
+        0.525,
+        0.6749999999999999,
+        0.825,
+        0.975,
+        1.125,
+        1.275,
+        1.425
+    ],
+    "DwellTime": 0.0014335999999999997,
+    "FlipAngle": 180,
+    "InstitutionName": "Technion Haifa"
+}
